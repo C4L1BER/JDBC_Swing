@@ -1,0 +1,6 @@
+Database Queries
+
+create database USERS;
+
+create table user(uid int(20), uname varchar(20));
+
